@@ -4,7 +4,7 @@ Este projeto implementa um sistema de recomendação de produtos baseado em simi
 
 ## Como rodar
 
-1.baixe todos os arquivos do projeto:
+ 1.baixe todos os arquivos do projeto:
 ```bash
 https://github.com/August-PS/api_recomendacao
 ```
