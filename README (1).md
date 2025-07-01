@@ -6,8 +6,7 @@ Este projeto implementa um sistema de recomendação de produtos baseado em simi
 
 1.baixe todos os arquivos do projeto:
 ```bash
-git clone https://github.com/August-PS/api_recomendacao.git
-cd api_recomendacao
+https://github.com/August-PS/api_recomendacao
 ```
 
 2. Instale as dependências:
