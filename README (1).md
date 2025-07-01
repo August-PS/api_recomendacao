@@ -14,7 +14,7 @@ https://github.com/August-PS/api_recomendacao
 pip install -r requirements.txt
 ```
 
-3. Rode a API:
+3. iniciar API:
 ```bash
 uvicorn app:app --reload
 ```
